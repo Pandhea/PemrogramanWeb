@@ -39,7 +39,7 @@
                 </a>
                 <ul class="nav nav-treeview">
                   <li class="nav-item">
-                    <a href="./index.html" class="nav-link active">
+                    <a href="/PemrogramanWeb/index.php" class="nav-link active">
                       <i class="nav-icon bi bi-circle"></i>
                       <p>Dashboard v1</p>
                     </a>
@@ -68,27 +68,45 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon bi bi-box-seam-fill"></i>
                   <p>
-                    Widgets
+                    Perkuliahan
                     <i class="nav-arrow bi bi-chevron-right"></i>
                   </p>
                 </a>
                 <ul class="nav nav-treeview">
                   <li class="nav-item">
-                    <a href="./widgets/small-box.html" class="nav-link">
-                      <i class="nav-icon bi bi-circle"></i>
-                      <p>Small Box</p>
+                  <a href="/PemrogramanWeb/Content/pertemuan2.php" class="nav-link">
+                        <i class="nav-icon bi bi-circle"></i>
+                        <p>Pertemuan 2</p>
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="./widgets/info-box.html" class="nav-link">
-                      <i class="nav-icon bi bi-circle"></i>
-                      <p>info Box</p>
+                   <a href="/PemrogramanWeb/Content/pertemuan3.php" class="nav-link">
+                         <i class="nav-icon bi bi-circle"></i>
+                         <p>Pertemuan 3</p>
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="./widgets/cards.html" class="nav-link">
+                    <a href="/PemrogramanWeb/Content/pertemuan4.php" class="nav-link">
                       <i class="nav-icon bi bi-circle"></i>
-                      <p>Cards</p>
+                      <p>Pertemuan 4</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/pertemuan5.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 5</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/pertemuan6.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 6</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="/PemrogramanWeb/Content/pertemuan7.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Pertemuan 7</p>
                     </a>
                   </li>
                 </ul>
